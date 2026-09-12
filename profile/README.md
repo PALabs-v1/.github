@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="assets/logo.png" alt="PALabs" width="120" />
-</p>
-
 <h1 align="center">PALabs</h1>
 
 <p align="center">
