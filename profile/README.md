@@ -10,7 +10,8 @@ personalized and autonomous intelligent systems.
 A local-first AI companion built around persistent cognition, affect, memory,
 voice, vision and user-authored identity.
 
-[Explore AI Friend](https://github.com/PALabs-v1/AI_friend)
+[Explore AI Friend](https://github.com/PALabs-v1/AI_friend) — the public
+website and docs live in a separate repo, [PALabs-v1/website](https://github.com/PALabs-v1/website).
 
 ## Principles
 
